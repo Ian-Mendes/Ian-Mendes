@@ -1,0 +1,4 @@
+- 👋Olá, sou Ian Mendes Fernandes do Nascimento.
+- 👀 Tenho interesse em matemática, avaliação  e criação de softwares educacionais visando acessibilidade.
+- 🌱 Estou cursando Bacharelado em Tecnologia da Informação na Universidade Federal do Rio Grande do Norte e pretendo seguir carreira em Engenharia de Software.
+- 📫 Podemos entrar em contato por meio do meu e-mail, ian.mendesfernandes@gmail.com.
