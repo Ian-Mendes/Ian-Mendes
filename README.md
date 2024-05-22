@@ -1,6 +1,9 @@
 ## Sísifo Feliz 👋🏻🍂
 
 
+>"Deixo Sísifo na base da montanha! As pessoas sempre reencontram seu fardo. Mas Sísifo ensina a felicidade superior que nega os deuses e ergue as rochas. Também ele acha que está tudo bem. Este universo, doravante sem dono, não lhe parece estéril nem fútil. Cada grão dessa pedra, cada fragmento mineral dessa montanha cheia de noite forma por si só um mundo. A própria luta para chegar ao cume basta para encher o coração de um homem. É preciso imaginar Sísifo feliz.” | Camus, O Mito de Sísifo, p.141
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ian.mendesfernandes@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ian.itajai/)[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ian_mendes_)
 
 
